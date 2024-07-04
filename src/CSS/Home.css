@@ -1,0 +1,49 @@
+body{
+    overflow-x: hidden;
+}
+
+.main{
+    background-image: url('http://www.hdwallpaperspulse.com/wp-content/uploads/2016/03/06/beautiful-car-background.jpeg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.section{
+    height: 60vh;
+    background-color: black;
+}
+
+.h3section{
+    margin-top: 100px;
+}
+.section1{
+    height: 80vh;
+    background-color: black;
+}
+.section2{
+    height:80vh;
+    background-image: url('https://wallpaperaccess.com/full/120202.jpg');
+    background-size: cover;
+
+}
+.section3{
+    height: 100vh;
+    background-color: black;
+}
+.section4{
+    height: 60vh;
+    background-color: black;
+}
+
+
+
+
+.nav-link:hover {
+    color: #ffc107;
+  }
+  
+  .image:hover {
+    opacity: 0.8; 
+    transition: opacity 0.3s ease; 
+  }
+  

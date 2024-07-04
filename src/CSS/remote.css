@@ -1,0 +1,99 @@
+.remote{
+    background-image: url('http://cdn.wallpapersafari.com/11/66/M31gEh.jpg');
+    background-size: cover;
+    height: 87vh;
+}
+
+.remotetutor{
+
+    background-image: url('http://cdn.wallpapersafari.com/11/66/M31gEh.jpg');
+    background-size: cover;
+    height: 87vh;
+}
+
+
+.student{
+    height: 40vh;
+    background-color: black;
+}
+
+.student1{
+    height: 60vh;
+    background-color: black;
+}
+.student1 .row {
+    display: flex;
+    justify-content: center;
+  }
+  .student1 .col-md-4 {
+    text-align: center;
+  }
+  .student1 img {
+    border-radius: 50%; 
+    border: 2px solid #fff; 
+    width: 200px; 
+    height: 200px; 
+    object-fit: cover; 
+  }
+
+
+  .hello{
+    height: 40vh;
+    background-color: lightslategrey;
+  }
+  .hii{
+    height: 60vh;
+    background-color: black;
+
+  }
+
+  .hii {
+    display: flex;
+    justify-content: center;
+  }
+  .hii .row {
+    display: flex;
+  }
+  .hii .col-md-4 {
+    text-align: center;
+  }
+  .hii img {
+    border-radius: 20px; /* Set border radius */
+    border: 2px solid #ccc; /* Add a border */
+    margin: 10px; /* Add margin for spacing */
+    width: 200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    object-fit: cover; /* Maintain aspect ratio */
+  }
+
+
+  .hello1{
+    background-image: url('https://wallpaperaccess.com/full/120202.jpg');
+    background-size: cover;    height: 80vh;
+  }
+
+
+  .driver{
+    height: 20vh;
+    background-color: black;
+    
+
+  }
+  .driver1{
+    height: 60vh;
+    background-color: black;
+  }
+  .driver1 .row {
+    display: flex;
+    justify-content: center;
+  }
+  .driver1 .col-md-4 {
+    text-align: center;
+  }
+  .driver1 img {
+    border-radius: 50%; /* Set border radius to create a round shape */
+    width: 200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    object-fit: cover; /* Maintain aspect ratio */
+  }
+
